@@ -1,0 +1,11 @@
+Model Information:
+* title:	Devil's Dance
+* source:	https://sketchfab.com/3d-models/devils-dance-b4757585b30e4075800b985f47d5716f
+* author:	Loïc Norgeot (https://sketchfab.com/norgeotloic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Devil's Dance" (https://sketchfab.com/3d-models/devils-dance-b4757585b30e4075800b985f47d5716f) by Loïc Norgeot (https://sketchfab.com/norgeotloic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

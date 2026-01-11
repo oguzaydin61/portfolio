@@ -1,0 +1,11 @@
+Model Information:
+* title:	M.I.X.E.S + animations
+* source:	https://sketchfab.com/3d-models/mixes-animations-6cc50ea2a80146d3857556e77202f848
+* author:	jakss (https://sketchfab.com/jakss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "M.I.X.E.S + animations" (https://sketchfab.com/3d-models/mixes-animations-6cc50ea2a80146d3857556e77202f848) by jakss (https://sketchfab.com/jakss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

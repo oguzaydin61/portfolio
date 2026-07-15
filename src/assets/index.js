@@ -9,6 +9,7 @@ import close from "./close.svg";
 import trust from "./trust.png"
 import curator from "./curator.png"
 import eksim from "./eksim.png"
+import talha from "./talha.png"
 
 
 import css from "./tech/css.png";
@@ -35,6 +36,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  talha,
   eksim,
   trust,
   curator,

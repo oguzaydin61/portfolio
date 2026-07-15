@@ -5,13 +5,13 @@ import CanvasLoader from '../Loader'
 
 
 const Computers = ({isMobile}) => {
-  const car = useGLTF('./head/scene.gltf')
+  const car = useGLTF('./space_gif/scene.gltf')
   return (
     <mesh>
     <hemisphereLight intensity={.8} groundColor='black' />
     <spotLight
       position={[-20, 50, 10]}
-      angle={0.12}
+      angle={1}
       penumbra={1}
       intensity={1}
       castShadow
@@ -20,9 +20,9 @@ const Computers = ({isMobile}) => {
     <pointLight intensity={1} />
     <primitive
       object={car.scene}
-      scale={isMobile ? 0.7 : 0.05}
+      scale={isMobile ? 0.30 : 0.45}
       //position ile dairesel dönüş ayarlanıyor muhtemelen x ile
-      position={isMobile ? [0, -3, -2.2] : [0, -0.3, -0]}
+      position={isMobile ? [0, -0.4, -0] : [0, -0.7, -0]}
       autoRotate={false}
       rotation={[-0.01, 0, -0.0]}
     />

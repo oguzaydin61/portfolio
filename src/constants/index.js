@@ -25,7 +25,9 @@ import {
     threejs,
     curator,
     trust,
-    eksim
+    eksim,
+
+    talha
   } from "../assets";
   
   export const navLinks = [
@@ -113,29 +115,16 @@ import {
   
   const experiences = [
     {
-      title: "Intern .Net Developer",
-      company_name: "Eksim Invesment Holding",
-      icon: eksim,
+      title: "QA Analyst & Full-Stack Developer",
+      company_name: "Talha Textile",
+      icon: talha,
       iconBg: "#003049",
-      date: "June 2021 - September 2021",
+      date: "09/2024 - 01/2026",
       points: [
-        "Developing and maintaining web applications using .Net Core and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Intern Unity Developer",
-      company_name: "Trust Games",
-      icon: trust,
-      iconBg: "#fdf0d5",
-      date: "Jan 2022 - September 2022",
-      points: [
-        "Unity Game Development Projects: Actively contributed to captivating VR game projects, implementing interactive mechanics and impressive graphics.",
-        "Collaborative Teamwork: Excelled in a team environment, collaborating with developers, artists, and designers on VR projects using Git.",
-        "Problem Solving and Debugging: Resolved challenges in VR development, optimized performance, and improved the overall VR gameplay experience.",
-        "Learning and Growth: Expanded skills in C#, particle systems, shaders, and VR development through workshops and hands-on projects.",
+        "Successfully developed and maintained the company’s internal WordPress platform using PHP, JavaScript, and CSS.",
+        "Designed and implemented automated end-to-end (E2E) tests using Playwright to ensure continuous product quality and stability.",
+        "Acted as a key bridge between stakeholders and the development team by translating business requirements into technical user stories.",
+        
       ],
     },
     {
@@ -143,7 +132,7 @@ import {
       company_name: "Curator Studios",
       icon: curator,
       iconBg: "#003049",
-      date: "September 2022 - May 2023",
+      date: "01/2023 -  06/2024",
       points: [
         "Web Development with JavaScript: Spearheaded the creation of the company's website using JavaScript, applying modern web design principles to deliver an engaging and responsive user experience.",
         "Server-side Development with Node.js: Played a significant role in server-side development, utilizing Node.js to build robust APIs and backend systems that supported the web3 games' functionality.",
@@ -152,6 +141,20 @@ import {
         "Adapting to Emerging Technologies: Demonstrated adaptability in the ever-evolving web3 landscape, staying up-to-date with the latest Node.js and web development trends to drive innovation in the projects."
       ],
     },
+    {
+      title: "Software Engineer",
+      company_name: "Trust Games",
+      icon: trust,
+      iconBg: "#fdf0d5",
+      date: "03/2022 - 09/2022i",
+      points: [
+        "Unity Game Development Projects: Actively contributed to captivating VR game projects, implementing interactive mechanics and impressive graphics.",
+        "Collaborative Teamwork: Excelled in a team environment, collaborating with developers, artists, and designers on VR projects using Git.",
+        "Problem Solving and Debugging: Resolved challenges in VR development, optimized performance, and improved the overall VR gameplay experience.",
+        "Learning and Growth: Expanded skills in C#, particle systems, shaders, and VR development through workshops and hands-on projects.",
+      ],
+    },
+    
     
   ];
   
